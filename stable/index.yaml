@@ -3,12 +3,12 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-08-25T16:58:32.239431+09:00"
+    created: "2021-08-25T17:02:34.654768+09:00"
     description: A Helm chart for Kubernetes
     digest: 2eb35eb6cfc29ab7d04e07bb589073750f5c60141964f16530387af2ee16f384
     name: demo
     type: application
     urls:
-    - demo-0.1.0.tgz
+    - https://hannah-23.github.io/charts/stable/demo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-25T16:58:32.238808+09:00"
+generated: "2021-08-25T17:02:34.654143+09:00"
